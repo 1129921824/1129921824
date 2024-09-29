@@ -53,8 +53,8 @@
 
 ## 🔥 GitHub 数据
 
-![xubaobao19940428's GitHub stats](https://github-readme-stats.vercel.app/api?username=xubaobao19940428&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xubaobao19940428&layout=compact&theme=radical)](https://github.com/xubaobao19940428)
+![xubaobao19940428's GitHub stats](https://github-readme-stats.vercel.app/api?username=1129921824&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1129921824&layout=compact&theme=radical)](https://github.com/xubaobao19940428)
 
 ## 💻 我的项目
 
@@ -64,9 +64,9 @@
 
 ## 📫 联系方式
 
-- 个人网站: [https://xubaoer.cn/](#)
-- 微信公众号: [https://mp.weixin.qq.com/s/RMyTK_OXVXQuVadVNUIA4A](#)
+- 个人网站: [https://sunyuqiang.cn/](#)
+- 微信公众号: [https://mp.weixin.qq.com/s/ctGAsKeTSnZqTN80Fl_J-Q](#)
 
 ---
 
-*“保持好奇，持续学习。”*
+*“再难也要坚持，再苦也不放弃。”*
