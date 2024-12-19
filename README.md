@@ -64,7 +64,7 @@
 
 ## 📫 联系方式
 
-- 个人网站: [https://sunyuqiang.cn/](#)
+- 个人网站(已无钱维护下线): [https://sunyuqiang.cn/](#)
 - 微信公众号: [https://mp.weixin.qq.com/s/ctGAsKeTSnZqTN80Fl_J-Q](#)
 
 ---
