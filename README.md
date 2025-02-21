@@ -4,22 +4,25 @@
 
 ## 🚀 关于我
 
-- 🎯 **专注于前端开发**，熟练掌握 **HTML、CSS、JavaScript、Vue、React** 等技术，擅长构建交互式的 Web 应用。
+- 🎯 **专注于服务端开发**，熟练掌握 **Spring、SpringBoot、Dubbo、SpringCloud、Vue2** 等技术，擅长构建中后台的 Web 应用。
 - ⚡ **跨平台开发经验**：包括 **Electron** 桌面应用和 **微信小程序** 的开发，具备打造全平台应用的能力。
-- 🔍 **学习中**：正在深入学习 **React Native** 和 **Node.js**，探索全栈开发和移动应用开发的世界。
+- 🔍 **学习中**：正在深入学习 **Vue2** 和 **UNIAPP**，探索全栈开发和移动应用开发的世界。
 - 🛠 **项目经验**：有实际的 **SSH 连接桌面应用开发经验**，并且参与了 **远程桌面控制应用** 的开发。
 - 🎨 喜欢研究前沿的 UI 和交互设计，尤其对 **Vue 3** 和 **React** 的生态系统充满热情。
 
 ## 🔥 技术栈
 
-### 🖥️ 前端开发
-- **主攻技术栈**：HTML, CSS, JavaScript, Vue, React, React Native
-- **跨平台开发**：Electron, 微信小程序, uni-app
-
 ### 🛠️ 后端开发
 - **服务器端**：Node.js（探索中）
-- **数据库**：MySQL
+- **数据库**：MySQL & Oracle & Dameng
+- **ORM**：Mybatis & Hibernate
+- **中间件**：Nginx, Tomcat, Dubbo, SpringCloud
 - **缓存**：Redis
+
+### 🖥️ 前端开发
+- **主攻技术栈**：HTML, CSS, JavaScript, Vue, React, React Native
+- **跨平台开发**：Electron, uni-app
+
 
 ### 🚀 工具 & 框架
 - **前端框架**：Vue 3, React, React Native
@@ -39,13 +42,12 @@
 
 ## 🌱 持续学习
 
-- **React Native**：正在深入理解如何使用 React Native 构建跨平台移动应用。
-- **Node.js 全栈开发**：开始逐步学习后端 API 的搭建，并结合数据库（MySQL, Redis）进行实际项目开发。
-- **WebRTC**：已经在项目中集成了 WebRTC 实现跨设备的通信和屏幕共享。
+- **Vue**：正在系统学习 Vue2 、Vue3 主流Vue框架，适应前端开发潮流。
+- **Deepseek**: 正在学习使用 deepseek 等AI平台，提高工作效率。
 
 ## 🛠️ 常用开发工具
 
-- **代码编辑器**：Visual Studio Code
+- **代码编辑器**：Intellij IDEA & Visual Studio Code
 - **版本控制**：Git & GitHub
 - **开发管理**：Trello, Notion
 - **容器和虚拟化**：Docker（学习中）
@@ -53,14 +55,12 @@
 
 ## 🔥 GitHub 数据
 
-![xubaobao19940428's GitHub stats](https://github-readme-stats.vercel.app/api?username=1129921824&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1129921824&layout=compact&theme=radical)](https://github.com/xubaobao19940428)
+![sunyuqiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=1129921824&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1129921824&layout=compact&theme=radical)](https://github.com/1129921824)
 
 ## 💻 我的项目
 
-- **vue3-admin-vite-project**：一个基于 Vue 3 + Vite 构建的后台管理系统，集成了常用的权限管理、数据展示功能。
-- **Electron + SSH桌面应用**：结合 Ace Editor 和 Xterm，实现了 SSH 终端的集成。
-- **React Native 项目**：通过 WebView 和 injectedJavaScript 实现了第三方网页内容的动态交互。
+- **Rubick 桌面效率应用**：核心contributor。
 
 ## 📫 联系方式
 
